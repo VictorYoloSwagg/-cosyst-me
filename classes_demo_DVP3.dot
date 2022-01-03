@@ -1,0 +1,5 @@
+digraph "classes_demo_DVP3" {
+rankdir=BT
+charset="utf-8"
+"arbre.Arbre" [color="black", fontcolor="black", label="{arbre.Arbre|health\limage\lposition : list\lrect\lsprite_sheet\l|attack_carnivore(target_carnivore)\ldamage(damage)\lget_image(x, y)\lupdate()\l}", shape="record", style="solid"];
+}

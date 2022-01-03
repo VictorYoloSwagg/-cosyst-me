@@ -1,0 +1,5 @@
+digraph "classes_demo_DVP1" {
+rankdir=BT
+charset="utf-8"
+"carnivore.Carnivore" [color="black", fontcolor="black", label="{carnivore.Carnivore|attack\ldirection : int\lgender : int\lhealth\limage\lposition : list\lrect\lsex\lspeed_x : int\lspeed_y : int\lsprite_sheet\l|attack_carnivore(target_carnivore)\lcollide()\ldamage(damage)\lget_health()\lget_image(x, y)\lget_sex(gender)\lmove()\lupdate()\l}", shape="record", style="solid"];
+}
